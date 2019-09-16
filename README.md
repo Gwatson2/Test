@@ -1,3 +1,3 @@
 # Test
 
-Practive 1
+Practice 1
